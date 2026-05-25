@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gautham</h1>
-<h3 align="center">Backend Dev 🚀 | DSA Grinder 🪐 | Debugging Life & Code 🐛</h3>
+<h1 align="center">Sup!!, I'm Gautham</h1>
+
 
 ---
 
